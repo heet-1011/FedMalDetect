@@ -1,2 +1,2 @@
 # FedMalDetect
-### The codebase will be made publicly available soon.
+### Federated Learning based Malware Detection Project. The codebase will be made publicly available soon.
